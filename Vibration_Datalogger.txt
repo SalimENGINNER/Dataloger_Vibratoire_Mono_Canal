@@ -1,0 +1,5 @@
+Board Information Report
+Filename     : C:\Users\s.dhimni\OneDrive - Fondation MAScIR\Workspace One DRIVE UM6P\WORK UM6P\Projets\Datalogger Vibratoire\Altuim\PCB\Vibration_Datalogger 1 Canal\Vibration_Datalogger.PcbDoc
+Date         : 09/07/2026
+Time         : 16:59:48
+Time Elapsed : 00:00:00
